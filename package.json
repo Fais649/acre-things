@@ -1,0 +1,1 @@
+{"name":"acre-community-things","private":true,"type":"module","engines":{"node":">=24"},"scripts":{"check":"node scripts/validate.mjs"}}
